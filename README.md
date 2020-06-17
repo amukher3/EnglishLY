@@ -6,3 +6,5 @@ Spacy to extract and label the various `_parts of speech_` tags in the text. Thi
 `_noun phrases_` and `_verb phrases_` in english language text. 
 
 Commit details are in my _Bit-Bucket_ account.
+
+***Author:Abhishek Mukherjee***
